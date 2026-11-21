@@ -1,0 +1,5 @@
+MED101|Paracetamol|||5.50|1|2028-12-15
+MED102|Ibuprofeno|||8.50|20|2028-12-15
+MED103|Amoxicilina|||12.00|15|2028-12-15
+MED104|Producto de prueba|General|Genfar|4.00|10|2026-10-15
+CAT-RJ0719|BACTRIM SUSPENSION X 100ML|Sin especificar|ROCHE|22.125|0|2028-11-21
